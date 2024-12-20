@@ -1,0 +1,1 @@
+{"name":"gen2","version":"0.0.1","categoryId":"460d8498-3e11-4e36-8d84-983e115e36fd","parentGenerator":"Boolean","globalProperties":{"randomDistribution":"false","blankPercentage":"0"},"configurations":[{"name":"Default","weightage":0.0,"properties":{"list":[{"value":"Yes","distribution":60},{"value":"No","distribution":40}],"random":true}}]}
