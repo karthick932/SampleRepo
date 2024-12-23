@@ -1,1 +1,0 @@
-{"name":"namacsv","version":"0.0.1","categoryId":"460d8498-3e11-4e36-8d84-983e115e36fd","parentGenerator":"Name","globalProperties":{"randomDistribution":"false","duplicatesAllowed":"true","blankPercentage":null},"configurations":[{"name":"Default","weightage":100.0,"properties":{"title":"true","firstName":"true","lastName":"true"}}]}
