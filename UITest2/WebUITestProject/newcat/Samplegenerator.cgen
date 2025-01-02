@@ -1,0 +1,1 @@
+{"name":"Samplegenerator","version":"0.0.1","categoryId":"4bfb30e7-0c67-4cfc-bb30-e70c673cfc9d","parentGenerator":"Dataset","globalProperties":{"blankPercentage":"0"},"configurations":[{"name":"Default","weightage":100.0,"properties":{"filePath":"UITest2/WebUITestProject/Datasets/Dataset1.csv","repositoryUrl":"github.com/karthick932/SampleRepo","column":"Quantity"}}]}
