@@ -1,0 +1,7 @@
+{
+  "name" : "DataDefinitionfromDataset",
+  "description" : "Data Definition from Dataset",
+  "fields" : [ {
+    "name" : "Quantity"
+  } ]
+}
